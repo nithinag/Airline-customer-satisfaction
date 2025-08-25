@@ -1,0 +1,8 @@
+##Python 3.8+
+##Libraries:
+-numpy
+-pandas
+-matplotlib
+-seaborn
+-scikit-learn
+-openpyxl
